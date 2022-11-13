@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Usually, blogs are uploaded to share some interesting findings. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+They will be uploaded - 
+### At the appropriate juncture. In the fullness of time. When the moment is ripe. When the necessary procedures have been completed. Nothing precipitate, of course.
