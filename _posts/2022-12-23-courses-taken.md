@@ -51,6 +51,7 @@ Basic contents: Quantum computing foundations; Quantum algorithms; Quantum compu
 
 Outstanding course. Just take it if you are confident with your math / linear algrbra. 
 
+
 #### (PU) SML201 Introduction to Data Science; =COMP2501
 2023 Spring
 
@@ -78,7 +79,7 @@ Part 1: acceptable; part 2: good. Typical Engineering course. Less rigorous and 
 
 Basic contents: Linear Algebra and Probability & Statistics
 
-Acceptable course. 
+Acceptable course which introduces linear algebra and P&S. 
 
 
 #### MATH2014 Multivariable Calculus and Linear Algebra
@@ -86,13 +87,13 @@ Acceptable course.
 
 Basic contents: Multivariable Calculus and Linear Algebra
 
-Acceptable course. Another math course for non-Math students. Because of the limited lecture hours, the course is not comprehensive enough. But if you are willing to read textbooks yourself, it can be regarded as a course to substitute MATH2101 and MATH2211. 
+Acceptable course. Another math course for non-Math students. Because of the limited lecture hours, the course is not comprehensive enough. But if you are willing to read textbooks yourself to learn the remaining topics not covered by the course, it can be regarded as a course to substitute MATH2101 and MATH2211. 
 
 
 #### STAT2601 Probability & Statistics I
 2022 Fall; Dr. Wat K.P.
 
-Basic contents: Probability
+Basic contents: Probability theory
 
 Outstanding course. Take it if you have a relatively not intensive semester. Not necessarily need to be good at math. 
 
@@ -125,18 +126,18 @@ Unacceptable course. Never fully understood a lecture since part 2. Horrible exa
 
 # Other Courses
 
-#### ENGG1300 Fundamental mechanics
+#### ENGG1300 Fundamental Mechanics
 2021 Fall; Dr. Law Kwan Ho, Su Kai Leung, Szeto Wai Yuen, Xu Lizhi, Ye Hailong
 
 Basic contents: Fundamental Mechanics. Static & non-static systems; analysis, etc. 
 
-Good course. 
+Good course with well-organized contents. 
 
 
-#### ENGG1320 Modern Engineers
+#### ENGG1320 Engineers in Modern World
 2022 Spring; 
 
-Basic contents: IDK
+Basic contents: I don't remember; a project
 
 Terrible course. Nothing learned. I wish I have told me to take an equivalent course during the exchange. 
 
@@ -149,7 +150,7 @@ Basic contents: Interesting applications of math. Virus model, Nash equilibrium,
 Good course. 
 
 
-#### CCHU9056 Discrete Math
+#### CCHU9056 Virtual World, Real Bodies
 2022 Spring; Dr. Ng Kal Ka Lung
 
 Basic contents: VR and humanity
