@@ -158,7 +158,7 @@ Basic contents: VR and humanity
 Terrible course. After taking this course, I decided not to take any Common Core course at HKU anymore. 
 
 
-#### (PKU Summer) China modern economy; =CCHU9007
+#### (PKU Summer) China modern economy; =CCCH9007
 2022 Summer
 
 Basic contents: China's modern economy
